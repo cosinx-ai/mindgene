@@ -5,8 +5,4 @@ The models will cover the following areas:
 - In silico compound toxicity and target prediction
 - Compound efficacy prediction for a specific disease or phenotype
 - Protein/kinase inhibitors prediction
-<<<<<<< HEAD
 - Compound combination prediction
-=======
-- Compound combination prediction
->>>>>>> mindgene-dm
